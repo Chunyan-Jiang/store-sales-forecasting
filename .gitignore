@@ -222,3 +222,6 @@ data/
 
 
 *.pyc
+
+#notes
+notes/
